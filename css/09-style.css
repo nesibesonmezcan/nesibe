@@ -1,0 +1,18 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+
+h1.title{
+    text-decoration:line-through;
+    font-style: italic;
+    font-weight: 500;
+
+}
+body{
+    font-family: 'Rubik Iso', cursive;
+}
+h1.title{
+    text-decoration: line-through;
+    font-style: italic;
+font: size 500px;
+}
